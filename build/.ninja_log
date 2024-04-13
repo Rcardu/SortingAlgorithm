@@ -1,0 +1,18 @@
+# ninja log v5
+18	3837	7347248161272640	runit/CMakeFiles/sortapp.dir/sort_t.cc.obj	f0261983166c207e
+11	4121	7347248164102264	sortAlg/CMakeFiles/sort.dir/SortClass.cc.obj	346f3231763a5d6f
+4121	4258	7347248165362277	D:/Project/project/SortingAlgorithm/lib/sort.lib	b42674cc1f3b4cb5
+11	415	7347252812851274	build.ninja	83d2fd7d4ba389a5
+38	3932	7347252853491223	runit/CMakeFiles/sortapp.dir/sort_t.cc.obj	5d11a51a9139d958
+32	4201	7347252856171564	sortAlg/CMakeFiles/sort.dir/SortClass.cc.obj	530770ae688e0d18
+4201	4353	7347252857561211	D:/Project/project/SortingAlgorithm/lib/sort.lib	b42674cc1f3b4cb5
+41	2121	7347255552086429	runit/CMakeFiles/sortapp.dir/sort_t.cc.obj	5d11a51a9139d958
+187	3754	7347256138235828	sortAlg/CMakeFiles/sort.dir/SortClass.cc.obj	530770ae688e0d18
+3756	3914	7347256139635837	D:/Project/project/SortingAlgorithm/lib/sort.lib	b42674cc1f3b4cb5
+210	3953	7347256140195832	runit/CMakeFiles/sortapp.dir/sort_t.cc.obj	5d11a51a9139d958
+3954	4513	7347256144680265	D:/Project/project/SortingAlgorithm/bin/sortapp.exe	ec561ca26b86129
+11	2269	7347257698130189	runit/CMakeFiles/sortapp.dir/sort_t.cc.obj	5d11a51a9139d958
+2271	2566	7347257700650182	D:/Project/project/SortingAlgorithm/bin/sortapp.exe	ec561ca26b86129
+10	2385	7347259587752924	sortAlg/CMakeFiles/sort.dir/SortClass.cc.obj	530770ae688e0d18
+2386	2526	7347259588992637	D:/Project/project/SortingAlgorithm/lib/sort.lib	b42674cc1f3b4cb5
+2526	2811	7347259591562553	D:/Project/project/SortingAlgorithm/bin/sortapp.exe	ec561ca26b86129
