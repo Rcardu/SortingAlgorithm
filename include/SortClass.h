@@ -5,9 +5,10 @@
  * @Last Modified time: 2024-04-13 22:52:20
  */
 #pragma once
+#include <algorithm>
 #include <iostream>
 #include <vector>
-#include <algorithm>
+
 
 namespace ICEY {
 class SortAlorithm {
@@ -58,4 +59,11 @@ class SortAlorithm {
   void countingSortDigit(std::vector<int>& nums, int exp);
   void radixSort(std::vector<int>& nums);
 };
+template <class T>
+void print(const T& val) {
+  for (const auto& i : val) {
+    std::cout << i << " ";
+  }
+  std::cout << "\n";
+}
 }  // namespace ICEY

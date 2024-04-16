@@ -1,3 +1,9 @@
+/*
+ * @Author: Ricardo
+ * @Date: 2024-04-16 16:17:01
+ * @Last Modified by:   ICEY
+ * @Last Modified time: 2024-04-16 16:17:01
+ */
 #include "SortClass.h"
 namespace ICEY {
 
@@ -111,7 +117,7 @@ int SortAlorithm::QuickSort::partition(std::vector<int>& nums,
                                        int right) {
   int i = left, j = right;
   while (i < j) {
-    while (i < j && nums[left] < nums[j])
+    while (i < j && nums[left] <= nums[j])
       j--;
     while (i < j && nums[left] > nums[i])
       i++;
@@ -220,7 +226,7 @@ void SortAlorithm::countingSortDigit(std::vector<int>& nums, int exp) {
     int d = digit(num, exp);
     counting[d]++;
   }
-  for (int i = 0; i < 10; i++) {
+  for (int i = 0; i < nums.size() - 1; i++) {
     counting[i + 1] += counting[i];
   }
   std::vector<int> res(n, 0);
