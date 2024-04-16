@@ -1,8 +1,0 @@
-D:/Project/project/SortingAlgorithm/build/CMakeFiles/edit_cache.dir
-D:/Project/project/SortingAlgorithm/build/CMakeFiles/rebuild_cache.dir
-D:/Project/project/SortingAlgorithm/build/sortAlg/CMakeFiles/sort.dir
-D:/Project/project/SortingAlgorithm/build/sortAlg/CMakeFiles/edit_cache.dir
-D:/Project/project/SortingAlgorithm/build/sortAlg/CMakeFiles/rebuild_cache.dir
-D:/Project/project/SortingAlgorithm/build/runit/CMakeFiles/sortapp.dir
-D:/Project/project/SortingAlgorithm/build/runit/CMakeFiles/edit_cache.dir
-D:/Project/project/SortingAlgorithm/build/runit/CMakeFiles/rebuild_cache.dir
